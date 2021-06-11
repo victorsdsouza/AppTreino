@@ -1,0 +1,16 @@
+.App {
+  
+  background-color: greenyellow ;
+}
+h1, h2{
+  text-align: center;
+  position: relative;
+
+}
+
+.GG{
+  width: 600px ;
+  margin:auto;
+  left:25% ;
+ }
+
